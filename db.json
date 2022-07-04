@@ -1,0 +1,58 @@
+{
+  "cities": [
+    {
+      "Country": "Japan",
+      "City": "Tokyo",
+      "Population": "45",
+      "id": 3
+    },
+    {
+      "Country": "USA",
+      "City": "Washington DC",
+      "Population": "1540",
+      "id": 4
+    },
+    {
+      "Country": "India",
+      "City": "mumbai",
+      "Population": "10000",
+      "id": 5
+    },
+    {
+      "Country": "Pakistan",
+      "City": "Peshawar",
+      "Population": "43",
+      "id": 6
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "country": "SriLanka"
+    },
+    {
+      "id": 2,
+      "country": "Colombo"
+    },
+    {
+      "id": 3,
+      "country": "China"
+    },
+    {
+      "country": "japan",
+      "id": 4
+    },
+    {
+      "country": "Bangladesh",
+      "id": 5
+    },
+    {
+      "country": "India",
+      "id": 6
+    },
+    {
+      "country": "indiaPak",
+      "id": 7
+    }
+  ]
+}
